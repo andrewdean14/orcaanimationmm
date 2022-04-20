@@ -421,6 +421,9 @@ footer p{
     .helpDiv {
         width: 90%;
     }
+    #preloader {
+        background-size: 80%;
+    }
 }
 /* Media */
 
